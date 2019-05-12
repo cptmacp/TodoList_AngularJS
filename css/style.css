@@ -1,16 +1,16 @@
 body {
-  background: #13756D;
+  background: #1a73e8;
 }
 
 .todo-wrapper {
-  background: #55B6AE;
+  background: #1a73e8;
   width: 100%;
 }
 
 h2 {
   font-size: 2em;
   font-family: megrim, fantasy;
-  background: #1CA89C;
+  background: #1a73e8;
   padding: 40px;
   margin: 0;
   color: #333;
@@ -50,7 +50,7 @@ li input[type="checkbox"] {
 
 .done-true {
   text-decoration: line-through;
-  color: #ddd;
+  color: red;
 }
 
 .add-input {
